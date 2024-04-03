@@ -52,3 +52,5 @@ graph.add_edge('D', 'E', 2)
 mst_graph = graph.mst()
 for edge in mst_graph.edges:
     print(edge)
+
+# Used ChatGPT for help with code
